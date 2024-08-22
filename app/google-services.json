@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390950448960",
+    "project_id": "watermanage-ed02a",
+    "storage_bucket": "watermanage-ed02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390950448960:android:ff7eee896a40bc54b3d4a5",
+        "android_client_info": {
+          "package_name": "com.example.watermnanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_fBtT93bzLhxJcaDvHILxJYgDdZUCqDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
